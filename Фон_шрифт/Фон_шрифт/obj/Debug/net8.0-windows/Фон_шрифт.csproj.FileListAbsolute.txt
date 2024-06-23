@@ -1,0 +1,51 @@
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.exe
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.deps.json
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.runtimeconfig.json
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.dll
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.pdb
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.Form1.resources
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.csproj.GenerateResource.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.AssemblyInfoInputs.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.AssemblyInfo.cs
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.csproj.CoreCompileInputs.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.dll
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\refint\Фон_шрифт.dll
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.pdb
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.genruntimeconfig.cache
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\ref\Фон_шрифт.dll
+C:\Users\d2005\OneDrive\Рабочий стол\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.Properties.Resources.resources
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.exe
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.deps.json
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.runtimeconfig.json
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.dll
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.pdb
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.Form1.resources
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.Properties.Resources.resources
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.csproj.GenerateResource.cache
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.GeneratedMSBuildEditorConfig.editorconfig
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.AssemblyInfoInputs.cache
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.AssemblyInfo.cs
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.csproj.CoreCompileInputs.cache
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.dll
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\refint\Фон_шрифт.dll
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.pdb
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.genruntimeconfig.cache
+E:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\ref\Фон_шрифт.dll
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.exe
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.deps.json
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.runtimeconfig.json
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.dll
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\bin\Debug\net8.0-windows\Фон_шрифт.pdb
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.Form1.resources
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.Properties.Resources.resources
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.csproj.GenerateResource.cache
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.GeneratedMSBuildEditorConfig.editorconfig
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.AssemblyInfoInputs.cache
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.AssemblyInfo.cs
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.csproj.CoreCompileInputs.cache
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.dll
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\refint\Фон_шрифт.dll
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.pdb
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\Фон_шрифт.genruntimeconfig.cache
+D:\Всё что можно - здесь\Программирование\Фон_шрифт\Фон_шрифт\obj\Debug\net8.0-windows\ref\Фон_шрифт.dll
